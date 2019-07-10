@@ -1,6 +1,6 @@
 # Omni-Supervised Learning with Tensorflow
 
-A Tensorflow notebook that utilizes omni-supervised learning to model the Mnist dataset.
+A Tensorflow 2.0.0-beta1 notebook that utilizes omni-supervised learning to model the Mnist dataset.
 
 ### What is Omni-Supervised Learning?
 
