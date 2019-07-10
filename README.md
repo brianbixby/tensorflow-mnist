@@ -6,7 +6,7 @@ A Tensorflow 2.0.0-beta1 notebook that utilizes omni-supervised learning to mode
 
 Omni-supervised learning is a special regime of semi-supervised learning in which a learner exploits all labeled data plus internet-scale sources of unlabeled data. This project is an implementation of [Facebook's scholarly article](https://arxiv.org/pdf/1712.04440.pdf) with the Mnist dataset.
 
-Facebook believes that an Omni-supervised model's lower bounds is the accuracy of training on the initial labeled data and success should be evaluated by how for a model surpasses this baseline. 
+Facebook believes that an Omni-supervised model's lower bounds is the accuracy of training on the initial labeled data and success should be evaluated by how far a model surpasses this baseline. 
 
 ### Results and Methodology
 
